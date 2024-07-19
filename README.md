@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🧑‍💻 Nathalie Metreau
 
-<!--
-**NathalieMet/NathalieMet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Full Stack Development student** at [Holberton School](https://www.holbertonschool.com). Passionate about coding, I enjoy exploring different technologies and building impactful projects. 
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** 
+  - C
+  - Python
+  - JavaScript
+
+- **Technologies & Frameworks:** 
+  - Node.js
+  - Express
+  - Redis
+  - Kue
+  - SQL
+  - NoSQL
+
+- **Web Development:** 
+  - Front-end (HTML, CSS, JavaScript)
+  - Back-end (APIs, Databases)
+
+- **Tools:** 
+  - Git
+  - GitHub
+  - VSCode
+
+
+## 📬 Get in Touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nathalie-metreau/). 
+
+Thank you for visiting my GitHub profile! I'm always open to collaboration and feedback. 
+
+Let's build something amazing together!
